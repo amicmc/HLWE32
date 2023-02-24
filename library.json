@@ -1,0 +1,22 @@
+{
+  "name": "Heltec_Esp32_LoRaWan_fix",
+  "version": "0.1.0",
+  "description": "Platformio LoRaWAN library for Heltec ESP32 boards LoraWifi32v3 fixed",
+  "keywords": "esp32, lora, heltec, v3",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/amicmc/HLWE32"
+  },
+  "authors":
+  [
+    {
+      "name": "Adrian Montero",
+      "email": "adrian.montero@juntaex.es",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "https://github.com/Baptou88/platform-espressif32"
+}
