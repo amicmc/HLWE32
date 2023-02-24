@@ -20,7 +20,7 @@ CubeCell_NeoPixel pixels(1, RGB, NEO_GRB + NEO_KHZ800);
 
 #if defined(WIFI_LoRa_32_V3)||defined(WIFI_LoRa_32_V2)||defined(WIFI_LoRa_32)
 #include <Wire.h>  
-#include "HT_SSD1306Wire.h"
+#include "display/HT_SSD1306Wire.h"
 
   SSD1306Wire  display(0x3c, 500000, SDA_OLED, SCL_OLED, GEOMETRY_128_64, RST_OLED);; // addr , freq , i2c group , resolution , rst
 

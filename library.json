@@ -1,8 +1,8 @@
 {
   "name": "Heltec_Esp32_LoRaWan_fix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Platformio LoRaWAN library for Heltec ESP32 boards LoraWifi32v3 fixed",
-  "keywords": "esp32, lora, heltec, v3",
+  "keywords": "esp32, lora, heltec, oled, ssd1306,v3",
   "repository":
   {
     "type": "git",
