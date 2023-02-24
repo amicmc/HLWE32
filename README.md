@@ -27,7 +27,7 @@ static const uint8_t SCK   = 9;
 ```
 When done you can use this example:
 
-```ìni
+```dosìni
 ; platformio.ini
 ;
 ; PlatformIO Project Configuration File
