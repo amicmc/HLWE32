@@ -1,4 +1,4 @@
-#include <HT_DisplayUi.h>
+#include "HT_DisplayUi.h"
 
 void LoadingDrawDefault(ScreenDisplay *display, LoadingStage* stage, uint8_t progress) {
       display->setTextAlignment(TEXT_ALIGN_CENTER);

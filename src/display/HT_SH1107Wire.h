@@ -1,7 +1,7 @@
 #ifndef SH1107Wire_h
 #define SH1107Wire_h
 
-#include <HT_Display.h>
+#include "HT_Display.h"
 #include <Wire.h>
 
 

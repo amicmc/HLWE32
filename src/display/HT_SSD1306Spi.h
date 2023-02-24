@@ -1,7 +1,7 @@
 #ifndef SSD1306Spi_h
 #define SSD1306Spi_h
 
-#include <HT_Display.h>
+#include "HT_Display.h"
 #include <SPI.h>
 
 

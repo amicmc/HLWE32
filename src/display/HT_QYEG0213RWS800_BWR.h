@@ -1,7 +1,7 @@
 #ifndef __QYEG0213RWS800_BWR_H__
 #define __QYEG0213RWS800_BWR_H__
 
-#include <HT_Display.h>
+#include "HT_Display.h"
 #include <SPI.h>
 
 enum DISPLAY_BUFFER {

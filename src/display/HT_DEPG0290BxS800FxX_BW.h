@@ -1,7 +1,7 @@
 #ifndef __DEPG0290BxS800FxX_BW_H__
 #define __DEPG0290BxS800FxX_BW_H__
 
-#include <HT_Display.h>
+#include "HT_Display.h"
 #include <SPI.h>
 
 
