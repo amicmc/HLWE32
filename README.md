@@ -45,7 +45,9 @@ When done, you can use this example:
 ; https://docs.platformio.org/page/projectconf.html
 
 [env:heltec_wifi_lora_32_v3]
-platform = https://github.com/Baptou88/platform-espressif32
+;platform = https://github.com/Baptou88/platform-espressif32
+platform = espressif32
+
 board = heltec_wifi_lora_32_V3
 framework = arduino
 monitor_speed = 115200
