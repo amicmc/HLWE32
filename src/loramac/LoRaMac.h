@@ -139,6 +139,11 @@ extern uint32_t LoRaMacState;
  * Syncword for Public LoRa networks
  */
 #define LORA_MAC_PUBLIC_SYNCWORD                    0x34
+    
+/*!
+ * Syncword for Public LoRa networks
+ */
+ #define LORAWAN_PREAMBLE_LENGTH                    8
 
 /*!
  * LoRaWAN devices classes definition
